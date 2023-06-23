@@ -1,0 +1,23 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/sns?serverTimezone=Asia/Seoul
+    username:
+    password:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+      format_sql: true
+    show-sql: true
+
+---
+
+jwt:
+  secret-key: test_rrrrrrrrrrrrrrrrddd.sns-application.secret_key
+  # 30 days
+  token:
+    expired-time-ms: 2592000000
+
+---
+
+spring.redis.url: redis://
