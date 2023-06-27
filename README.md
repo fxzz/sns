@@ -1,1 +1,1 @@
-# sns  Redis 참고용
+# 완강 sns  Redis 참고용
