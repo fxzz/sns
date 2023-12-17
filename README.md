@@ -39,7 +39,7 @@
 
 ### [Photo]
 - 최근에 올라온 사진이 가장 먼저 나타납니다.
-- 사용자 경험을 최우선으로 생각하여 페이지 전환이나 로딩을 기다릴 필요 없이 Cursor paging
+- 페이지 전환이나 로딩 없는 Cursor paging
 - 제목이나 내용이 길면 ... 으로 표현
 
 | Photo | 
@@ -47,10 +47,33 @@
 | ![ezgif com-video-to-gif-converted](https://github.com/fxzz/sns/assets/3148006/a89901e6-effe-4edc-b6af-07507991ba83)  | 
 
 
+<br>
+
+### [Photo - 공유하기]
+- 제목과 내용을 쓰고 이미지를 선택하면 일상을 공유합니다.
+- 유효성 검사 : 제목과 내용 이미지는 필수, 일부 특수문자 사용 불가
+- 자동화 봇 방지를 위해 reCAPTCHA v2 사용
+
+| 공유하기 - 성공 | 
+| -------- |
+| ![d](https://github.com/fxzz/sns/assets/3148006/aee9e713-10cb-4cae-b68c-fe2c3ae473ba)  | 
 
 <br>
+
+| 공유하기 - 검증 실패 | 
+| -------- |
+| ![d](https://github.com/fxzz/sns/assets/3148006/aee9e713-10cb-4cae-b68c-fe2c3ae473ba)  | 
+
+
+
+<br>
+
+### [Photo]
+- 최근에 올라온 사진이 가장 먼저 나타납니다.
 
 | Header 1 | 
 | -------- |
 | Cell 1   | 
-| Cell 4   | 
+
+
+
