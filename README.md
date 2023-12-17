@@ -12,12 +12,13 @@
 
 ## 1. 개발 환경
 - Front-end : React
-- Back-end : Spring, 마이바티스 등 임시
+- Back-end : Java, Spring, MyBatis, MySQL
 - 
 <br>
 
 ## 2. 보안
-- 임시
+- Form Validation
+ - ㅇㅇㅇ
 
 <br>
 
