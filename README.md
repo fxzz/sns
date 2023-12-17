@@ -28,9 +28,29 @@
 
 ## 4. 페이지별 기능
 
-### [메인 페이지]
+### [메인]
 - 배너의 시작하기 버튼을 누르면 Photo로 이동합니다.
 
-| 메인페이지 |
+| 메인 페이지 |
 | -------- |
 |    ![1](https://github.com/fxzz/sns/assets/3148006/91b9c3fc-f12e-43ee-b9f9-29a1156805ca) |
+
+<br>
+
+### [Photo]
+- 최근에 올라온 사진이 가장 먼저 나타납니다.
+- 사용자 경험을 최우선으로 생각하여 페이지 전환이나 로딩을 기다릴 필요 없이 Cursor paging
+- 제목이나 내용이 길면 ... 으로 표현
+
+| Photo | 
+| -------- |
+| ![ezgif com-video-to-gif-converted](https://github.com/fxzz/sns/assets/3148006/a89901e6-effe-4edc-b6af-07507991ba83)  | 
+
+
+
+<br>
+
+| Header 1 | 
+| -------- |
+| Cell 1   | 
+| Cell 4   | 
