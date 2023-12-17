@@ -13,7 +13,6 @@
 ## 1. 개발 환경
 - Front-end : React
 - Back-end : Java, Spring, MyBatis, MySQL
-- 
 <br>
 
 ## 2. 보안
