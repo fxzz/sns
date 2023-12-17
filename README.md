@@ -35,4 +35,4 @@
 
 | 메인페이지 |
 | -------- |
-| Cell 3   |
+|    ![1](https://github.com/fxzz/sns/assets/3148006/91b9c3fc-f12e-43ee-b9f9-29a1156805ca) |
