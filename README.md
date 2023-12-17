@@ -62,7 +62,8 @@
 
 | 공유하기 - 검증 실패 | 
 | -------- |
-| ![d](https://github.com/fxzz/sns/assets/3148006/aee9e713-10cb-4cae-b68c-fe2c3ae473ba)  | 
+| ![ezgif com-video-to-gif-converted](https://github.com/fxzz/sns/assets/3148006/e8b3745f-a328-4e4a-bdb0-34e0ed84bae1)  | 
+
 
 
 
