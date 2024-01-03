@@ -91,9 +91,19 @@
 
 <br>
 
-### [Photo - 상세보기]
-- 최근에 올라온 사진이 가장 먼저 나타납니다.
+### [Photo - 채팅]
 
-| Header 1 | 
+
+| 채팅 - 성공 | 
 | -------- |
-| Cell 1   | 
+|  ![hh](https://github.com/fxzz/sns/assets/3148006/79d33303-3525-47e8-ad65-afcb55a89ea8) | 
+
+
+<br>
+
+### [마이페이지]
+
+| 닉네임 변경 - 실패 | 
+| -------- |
+| ![ezgif com-video-to-gif-converter (1)](https://github.com/fxzz/sns/assets/3148006/3cef6900-bf6c-40da-9760-bae6854daa7c) | 
+
