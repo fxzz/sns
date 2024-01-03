@@ -73,12 +73,20 @@
 
 <br>
 
+### [회원가입]
+- 유효성 검사
+
+| 회원가입 - 실패 | 
+| -------- |
+|  ![ezgif com-video-to-gif-converter](https://github.com/fxzz/sns/assets/3148006/65c535df-97c8-40da-b4e2-5eddf7f8b1ab) | 
+
+<br>
+
 ### [Photo]
 - 최근에 올라온 사진이 가장 먼저 나타납니다.
 
 | Header 1 | 
 | -------- |
 | Cell 1   | 
-
 
 
