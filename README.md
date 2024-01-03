@@ -82,11 +82,18 @@
 
 <br>
 
-### [Photo]
+### [Photo - 상세보기]
+
+
+| 상세보기 - 성공 | 
+| -------- |
+|  ![상세](https://github.com/fxzz/sns/assets/3148006/3fded14c-b4ea-40b9-b8e0-088c6a1ee112) | 
+
+<br>
+
+### [Photo - 상세보기]
 - 최근에 올라온 사진이 가장 먼저 나타납니다.
 
 | Header 1 | 
 | -------- |
 | Cell 1   | 
-
-
